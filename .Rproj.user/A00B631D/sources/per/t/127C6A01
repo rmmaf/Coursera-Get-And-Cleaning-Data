@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578348300576.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3691304599",
+    "id" : "127C6A01",
+    "lastKnownWriteTime" : 1578348745,
+    "last_content_update" : 1578348745247,
+    "path" : "~/FinsAcadêmicos/Coursera-Get-And-Cleaning-Data/quiz12.R",
+    "project_path" : "quiz12.R",
+    "properties" : {
+        "cursorPosition" : "5,35",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}
