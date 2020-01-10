@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578632178383.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8EA40F3D",
+    "lastKnownWriteTime" : 1578635373,
+    "last_content_update" : 1578635373520,
+    "path" : "~/FinsAcadêmicos/Coursera-Get-And-Cleaning-Data/quiz33.R",
+    "project_path" : "quiz33.R",
+    "properties" : {
+        "cursorPosition" : "9,29",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}
